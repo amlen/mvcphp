@@ -1,0 +1,19 @@
+div {
+    margin-bottom: 10px;
+    position: relative;
+
+    background-color: white;
+
+}
+
+body {
+    background-image: url("background-photo.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+input + span {
+    padding-right: 30px;
+}
+
